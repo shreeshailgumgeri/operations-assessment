@@ -35,7 +35,7 @@ You can provide any public key for which you have access to the corresponding pr
 
 ### Expected results
 
-If everything properly executes you should be able to see an item like the following in a table named `vouch-operations-MachineState`
+If everything properly executes you should be able to see an item like the following in a Dynamo Table named `vouch-operations-MachineState`
 
 ![Dynamo Item](dynamo-item.png).
 
